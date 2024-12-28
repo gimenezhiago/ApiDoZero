@@ -1,0 +1,2 @@
+senhaMongo : 1wxjmrrpHHKGO36l
+chaveMongo : mongodb+srv://gimenezhiago888:1wxjmrrpHHKGO36l@meucluster.gi1ib.mongodb.net/?retryWrites=true&w=majority&appName=meuCluster
